@@ -1,0 +1,34 @@
+# Generated files
+.dart_tool/
+.idea/
+.flutter-plugins/
+.flutter-plugins-dependencies/
+.metadata
+build/
+pubspec.lock
+
+# Firebase configuration (CRITICAL - DO NOT SHARE)
+firebase.json
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# iOS specific
+ios/.symlinks/
+ios/Flutter/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace
+ios/RunnerTests/
+
+# Android specific (if you have any local debug files)
+# android/local.properties
+
+# IDE specific files
+*.iml
+*.iws
+*.ipr
+.vscode/
+.DS_Store
+
+# Other specific files you might generate or not want to track
+# any_debug_log_files.log
