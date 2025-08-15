@@ -27,8 +27,7 @@ In today's fast-paced world, scheduling a doctor's visit can be a cumbersome pro
 
 * **🔔 Smart Notifications & Reminders:**
     * Get timely reminders for your upcoming appointments.
-    * Receive notifications about confirmations, cancellations, or schedule changes.<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-08-15 at 13 44 29" src="https://github.com/user-attachments/assets/9b39e961-e302-47d4-b9ea-13898e96a624" />
-
+    * Receive notifications about confirmations, cancellations, or schedule changes.
 
 * **📂 Appointment Management:**
     * A clean dashboard to view and manage all your upcoming and past appointments.
