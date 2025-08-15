@@ -72,7 +72,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/PuzzleHeaded-Look852/Aarogya.git](https://github.com/PuzzleHeaded-Look852/Aarogya.git)
+    git clone https://github.com/PuzzleHeaded-Look852/Aarogya.git
     ```
 2.  Navigate to the project directory
     ```sh
