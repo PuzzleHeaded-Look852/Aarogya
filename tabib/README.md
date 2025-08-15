@@ -1,4 +1,4 @@
-# tabib
+# Aarogya (formerly known as Tabib)
 
 A new Flutter project.
 
