@@ -266,7 +266,7 @@ class _SignupState extends State<Signup> with SingleTickerProviderStateMixin {
                                 ),
                           ),
                           Text(
-                            "Tabib Account",
+                            "Aarogya Account",
                             style: GoogleFonts.inter(
                               fontSize: 32,
                               fontWeight: FontWeight.w800,
