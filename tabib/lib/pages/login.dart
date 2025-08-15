@@ -233,7 +233,7 @@ class _LoginState extends State<Login> with SingleTickerProviderStateMixin {
                                 ),
                           ),
                           Text(
-                            "Tabib",
+                            "Aarogya",
                             style: GoogleFonts.inter(
                               fontSize: 32,
                               fontWeight: FontWeight.w800,
